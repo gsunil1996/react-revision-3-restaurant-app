@@ -1,0 +1,322 @@
+ [
+    {
+      "name": "Hotel Paradise",
+      "specials": "Biriyani",
+      "mprice": "200",
+      "rating": "4.5",
+      "treviews": "1000",
+      "image": "https://media-exp1.licdn.com/dms/image/C511BAQFpbqXPieLj2w/company-background_10000/0/1571118559743?e=2159024400&v=beta&t=RmqhnS3WroN6cN_yHvbFBqSvwTvzftLbxKhlN2q-HPk",
+      "oneprice": "200",
+      "time": "45",
+      "votes": "500",
+      "id": 1,
+      "cash": 0,
+      "card": 1,
+      "all": 0
+
+    },
+    {
+      "image": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2021/04/mcdonalds-pti-1617962583.jpg",
+      "name": "MC Donalds",
+      "specials": "French fries",
+      "mprice": "100",
+      "rating": "4",
+      "treviews": "500",
+      "oneprice": "100",
+      "time": "15",
+      "votes": "300",
+      "id": 2,
+      "cash": 1,
+        "card": 0,
+        "all": 0
+
+    },
+    {
+      "image": "https://d1ralsognjng37.cloudfront.net/dc17742c-1eb5-4afd-b888-08aaa4d62160.jpeg",
+      "name": "Pizza hut",
+      "specials": "Pizza",
+      "mprice": "500",
+      "rating": "4.2",
+      "treviews": "400",
+      "oneprice": "1000",
+      "time": "40",
+      "votes": "300",
+      "id": 3,
+      "cash": 0,
+        "card": 0,
+        "all": 1
+
+    },
+    {
+      "image": "https://plantbasednews.org/wp-content/uploads/2021/04/baskin-robbins-vegan-ice-cream-oat-milk.jpg",
+      "name": "Baskin Robins",
+      "specials": "Ice cream",
+      "mprice": "150",
+      "rating": "3.5",
+      "treviews": "100",
+      "oneprice": "150",
+      "time": "5",
+      "votes": "50",
+      "id": 4,
+      "cash": 0,
+        "card": 1,
+        "all": 0
+
+    },
+    {
+      "image": "https://i0.wp.com/www.indiaretailing.com/wp-content/uploads/2018/08/thickshake-factory.jpg?fit=681%2C400&ssl=1",
+      "name": "Thick Shake Factory",
+      "specials": "Thick Shake",
+      "mprice": "250",
+      "rating": "4.1",
+      "treviews": "200",
+      "oneprice": "250",
+      "time": "10",
+      "votes": "150",
+      "id": 5,
+      "cash": 0,
+      "card": 1,
+      "all": 0
+
+    },
+    {
+      "image": "https://i.ytimg.com/vi/PCgEKFUp7Cg/maxresdefault.jpg",
+      "name": "Chutneys",
+      "specials": "Dosa",
+      "mprice": "300",
+      "rating": "4.3",
+      "treviews": "300",
+      "oneprice": "300",
+      "time": "15",
+      "votes": "100",
+      "id": 6,
+      "cash": 0,
+        "card": 1,
+        "all": 0
+
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/pictures/6/97196/45ca696f881c22586da629ebee28b0bf.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+      "name": "Gokul Chat",
+      "specials": "Pani puri",
+      "mprice": "300",
+      "rating": "4.4",
+      "treviews": "150",
+      "oneprice": "350",
+      "time": "8",
+      "votes": "100",
+      "id": 7,
+      "cash": 0,
+        "card": 1,
+        "all": 0
+
+    },
+    {
+      "image": "https://i2.wp.com/www.maamaata.com/wp-content/uploads/2018/08/Minerva-Coffee-Shop.jpg?ssl=1",
+      "name": "Minerva Coeffe Shop",
+      "specials": "Coeffe",
+      "mprice": "350",
+      "rating": "3.4",
+      "treviews": "140",
+      "oneprice": "120",
+      "time": "16",
+      "votes": "100",
+      "id": 8,
+      "cash": 1,
+        "card": 0,
+        "all": 0
+
+    },
+    {
+      "image": "https://d168jcr2cillca.cloudfront.net/uploadimages/coupons/11583-Blue_Fox_Restaurant_Hyderabad_Coupon_1.jpg",
+      "name": "Blue fox",
+      "specials": "Palak paneer",
+      "mprice": "400",
+      "rating": "3.3",
+      "treviews": "200",
+      "oneprice": "400",
+      "time": "45",
+      "votes": "160",
+      "id": 9,
+      "cash": 0,
+        "card": 1,
+        "all": 0
+
+    },
+    {
+      "rating": "3.2",
+      "mprice": "450",
+      "oneprice": "450",
+      "treviews": "500",
+      "votes": "260",
+      "time": "10",
+      "image": "https://r1imghtlak.mmtcdn.com/89cb294a5ce511e9a2a60242ac110002.jpg?&output-quality=75&downsize=910:612&crop=910:612;0,149&output-format=jpg",
+      "name": "Mahara Inn",
+      "specials": "Honey",
+      "id": 10,
+      "cash": 1,
+        "card": 0,
+        "all": 0
+
+    },
+    {
+      "image": "https://content3.jdmagicbox.com/comp/visakhapatnam/i3/0891px891.x891.160409165521.n2i3/catalogue/percolator-coffee-house-rk-beach-visakhapatnam-coffee-shops-0dyr5385cy.jpg?interpolation=lanczos-none&output-format=jpg&resize=300:168&crop=300:168px;*,*",
+      "name": "Perculator",
+      "specials": "Tea",
+      "rating": "2.5",
+      "mprice": "500",
+      "treviews": "600",
+      "oneprice": "500",
+      "time": "10",
+      "votes": "300",
+      "id": 11,
+      "cash": 0,
+      "card": 1,
+      "all": 0
+
+    },
+    {
+      "image": "https://r1imghtlak.mmtcdn.com/961b3a68789011e7a2030a4cef95d023.jpg?&output-quality=75&downsize=910:612&crop=910:612;4,0&output-format=jpg",
+      "name": "Novotel",
+      "specials": "Buffer",
+      "rating": "2.4",
+      "mprice": "550",
+      "oneprice": "550",
+      "treviews": "1200",
+      "votes": "1000",
+      "time": "30",
+      "id": 12,
+      "cash": 0,
+        "card": 1,
+        "all": 0
+
+    },
+    {
+      "image": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2020/01/21/barbeque.jpg?itok=wiYQvLY8",
+      "name": "Barbeque nation",
+      "specials": "Grilled Chicken",
+      "mprice": "600",
+      "oneprice": "600",
+      "time": "25",
+      "rating": "2.3",
+      "treviews": "400",
+      "votes": "250",
+      "id": 13,
+      "cash": 1,
+        "card": 0,
+        "all": 0
+
+    },
+    {
+      "image": "http://images.indulgexpress.com/uploads/user/ckeditor_images/article/2017/5/11/IceCream16.jpg",
+      "name": "Dr Ice Cream",
+      "specials": "Medical Ice creams",
+      "mprice": "650",
+      "oneprice": "650",
+      "time": "20",
+      "rating": "2.2",
+      "treviews": "350",
+      "votes": "300",
+      "id": 14,
+      "cash": 1,
+        "card": 0,
+        "all": 0
+
+    },
+    {
+      "image": "https://res.cloudinary.com/dyyjph6kx/image/upload/f_auto,q_auto,c_fit/v1497250709/ipojkirfpz47ilymlbpb.jpg",
+      "name": "Vivanta by Taj",
+      "specials": "South Indian Buffet",
+      "mprice": "700",
+      "rating": "2.1",
+      "oneprice": "700",
+      "time": "40",
+      "treviews": "1600",
+      "votes": "1300",
+      "id": 15,
+      "cash": 0,
+        "card": 1,
+        "all": 0
+
+    },
+    {
+      "rating": "3",
+      "mprice": "750",
+      "oneprice": "750",
+      "image": "https://b.zmtcdn.com/data/brand_creatives/logos/466f8fc74274145f3b21795c3d21816d_1589433071.png",
+      "name": "KFC",
+      "specials": "Chicken Lolypop",
+      "time": "20",
+      "treviews": "5000",
+      "votes": "800",
+      "id": 16,
+      "cash": 1,
+        "card": 0,
+        "all": 0
+
+    },
+    {
+      "rating": "2",
+      "mprice": "800",
+      "oneprice": "800",
+      "time": "34",
+      "treviews": "450",
+      "votes": "400",
+      "image": "https://b.zmtcdn.com/data/brand_creatives/logos/6a11fd0f30c9fd9ceaff2f5b21f61d23_1617187971.png",
+      "name": "Burger King",
+      "specials": "Burger",
+      "id": 17,
+      "cash": 0,
+        "card": 1,
+        "all": 0
+
+    },
+    {
+      "rating": "1.3",
+      "mprice": "850",
+      "oneprice": "850",
+      "time": "20",
+      "treviews": "320",
+      "votes": "300",
+      "image": "https://b.zmtcdn.com/data/pictures/6/19715716/2878311814d0ff145002baab546c5a83_o2_featured_v2.jpg",
+      "specials": "Cup Cakes",
+      "name": "Theobroma",
+      "id": 18,
+      "cash": 0,
+        "card": 1,
+        "all": 0
+
+    },
+    {
+      "rating": "1.4",
+      "mprice": "900",
+      "oneprice": "900",
+      "time": "15",
+      "treviews": "480",
+      "votes": "450",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/6/90706/59496b1041e33cf5c30f70ae0cb4b07c_o2_featured_v2.png",
+      "name": "Cream Stone",
+      "specials": "Waffer Ice Creams",
+      "id": 19,
+      "cash": 0,
+        "card": 1,
+        "all": 0
+
+    },
+    {
+      "rating": "1.5",
+      "mprice": "1000",
+      "oneprice": "1000",
+      "treviews": "642",
+      "votes": "426",
+      "time": "14",
+      "image": "https://i.ytimg.com/vi/XUJkdXJYx50/maxresdefault.jpg",
+      "name": "MTR",
+      "specials": "Idly Sambar",
+      "id": 20,
+      "cash": 1,
+        "card": 0,
+        "all": 0
+
+    }
+  ]
